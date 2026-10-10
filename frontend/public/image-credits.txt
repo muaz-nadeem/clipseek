@@ -1,0 +1,4 @@
+City street photograph used in the illustrative product preview and account pages:
+Image source: https://images.unsplash.com/photo-1449824913935-59a10b8d2000
+Downloaded under the Unsplash license: https://unsplash.com/license
+The product preview uses illustrative filenames and timestamps, not actual search results.

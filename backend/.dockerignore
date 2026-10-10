@@ -1,0 +1,14 @@
+.venv/
+venv/
+**/__pycache__/
+*.pyc
+storage/
+models/
+samples/
+tests/
+scripts/
+.env
+.env.*
+.pytest_cache/
+*.log
+README.md
